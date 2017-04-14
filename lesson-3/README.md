@@ -12,7 +12,7 @@ react-redux 进一步封装，使开发更加清爽，项目也更加容易迭�
 ![](./mdimg/demo3.gif)
 
 ### 前言2：
-如果对下面知识点的补充不是很熟悉，可以先看前篇我写的内容 [lesson-2 : Redux 的设计思想](https://github.com/ZengTianShengZ/react-lesson/blob/master/lesson-2/README.md)
+如果对下面知识点的补充不是很熟悉，可以先看前篇我写的内容 [lesson-2 : Redux 的设计思想](https://github.com/zhanglongdream/reactRedux/tree/master/lesson-2)
 
 ### 我们还需要一些中间件
 在封装项目的过程中，我们还需要一些好用的中间件来支持我们的封装。
